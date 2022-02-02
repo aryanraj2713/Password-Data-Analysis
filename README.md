@@ -24,4 +24,11 @@ If your password is on this list of 10,000 most common passwords, you need a new
 
 - [ ] Maximum password length = 16
 
+# Top 10 shortest passwords
+![sh-img](https://user-images.githubusercontent.com/75358720/152193478-42578dca-14df-4d07-b6d0-8b4b51b8ff53.png)
+
+# Top 10 longest passwords
+![lg-img](https://user-images.githubusercontent.com/75358720/152193758-a425c572-2507-48b2-9e9e-e98adccf9392.png)
+
+
 
