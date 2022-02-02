@@ -2,7 +2,7 @@
 
 If your password is on this list of 10,000 most common passwords, you need a new password. A hacker can use or generate files like this, which may readily be compiled from breaches. Usually, passwords are not tried one-by-one against a system's secure server online; instead, a hacker might manage to gain access to a shadowed password file protected by a one-way encryption algorithm, then test each entry in a file like this to see whether it encrypted form matches what the server has on record. The passwords may then be tried against any account online that can be linked to the first, to test for passwords reused on other sites.
 
-# From data we initially get this basic information
+# From data we initially get this basic information-
 
 - [ ] Mean length ~= 6.65
 
@@ -24,16 +24,16 @@ If your password is on this list of 10,000 most common passwords, you need a new
 
 - [ ] Maximum password length = 16
 
-# Top 10 shortest passwords
+# Top 10 shortest passwords-
 ![sh-img](https://user-images.githubusercontent.com/75358720/152193478-42578dca-14df-4d07-b6d0-8b4b51b8ff53.png)
 
-# Top 10 longest passwords
+# Top 10 longest passwords-
 ![lg-img](https://user-images.githubusercontent.com/75358720/152193758-a425c572-2507-48b2-9e9e-e98adccf9392.png)
 
-# Plotting password length data
+# Plotting password length data-
 ![lg-plot](https://user-images.githubusercontent.com/75358720/152194163-77c07492-f116-4a58-bb88-c2073f88d762.png)
 
-# Co-relations betwen diffrent parameters
+# Co-relations between diffrent parameters-
 ![htmap](https://user-images.githubusercontent.com/75358720/152194408-2995628a-2073-41ea-8dec-9f31b7561ec2.png)
 
 
