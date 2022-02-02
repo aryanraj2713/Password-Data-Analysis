@@ -33,6 +33,9 @@ If your password is on this list of 10,000 most common passwords, you need a new
 # Plotting password length data
 ![lg-plot](https://user-images.githubusercontent.com/75358720/152194163-77c07492-f116-4a58-bb88-c2073f88d762.png)
 
+# Co-relations betwen diffrent parameters
+![htmap](https://user-images.githubusercontent.com/75358720/152194408-2995628a-2073-41ea-8dec-9f31b7561ec2.png)
+
 
 
 
