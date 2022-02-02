@@ -25,13 +25,15 @@ If your password is on this list of 10,000 most common passwords, you need a new
 - [ ] Maximum password length = 16
 
 # Top 10 shortest passwords-
-![sh-img](https://user-images.githubusercontent.com/75358720/152193478-42578dca-14df-4d07-b6d0-8b4b51b8ff53.png)
+![sht-pwd](https://user-images.githubusercontent.com/75358720/152206784-2b71431e-3e15-4604-a4f5-15366392c1fe.png)
+
 
 # Top 10 longest passwords-
-![lg-img](https://user-images.githubusercontent.com/75358720/152193758-a425c572-2507-48b2-9e9e-e98adccf9392.png)
+![lg-pwd](https://user-images.githubusercontent.com/75358720/152206983-817ad622-7253-453b-b27a-800c4b254bf1.png)
+
 
 # Plotting password length data-
-![lg-plot](https://user-images.githubusercontent.com/75358720/152194163-77c07492-f116-4a58-bb88-c2073f88d762.png)
+![plt](https://user-images.githubusercontent.com/75358720/152207183-5263d3d2-3a7b-4661-9594-20eee643fe16.png)
 
 # Co-relations between diffrent parameters-
 ![htmap](https://user-images.githubusercontent.com/75358720/152194408-2995628a-2073-41ea-8dec-9f31b7561ec2.png)
